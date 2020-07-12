@@ -5,7 +5,7 @@ A Go implementation of the Futaba S.Bus protocol, AKA SBUS.
 Package sbus offers marshalling (serialization) and unmarshalling of the Futaba S.Bus digital servo serial protocol
 
 # SBUS Protocol
-The protocol is used for controlling digital [servos](https://en.wikipedia.org/wiki/Servo_(radio_control) for building hobby projects, radio-controlled airplanes, [cameras](https://www.blackmagicdesign.com/products/blackmagicmicrostudiocamera4k/customization), robots, quadcopters, and drones.
+The protocol is used for controlling digital [servos](https://en.wikipedia.org/wiki/Servo_\(radio_control\)) for building hobby projects, radio-controlled airplanes, [cameras](https://www.blackmagicdesign.com/products/blackmagicmicrostudiocamera4k/customization), robots, quadcopters, and drones.
 
 # Examples
 
